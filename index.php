@@ -12,6 +12,7 @@
     <div style="color:rgb(252, 252, 252); padding: 30px; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;">
         <h1 style="color: blue;">My Personal information</h1>
         <h3>Nina Alexsandra</h3>
+        <h3>ninaalexsandra99@gmail.com</h3>
     </div>
 </body>
 
